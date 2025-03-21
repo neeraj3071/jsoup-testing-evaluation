@@ -61,9 +61,3 @@ Compare the effectiveness of manually written tests vs. EvoSuite tests by analyz
 ## Conclusion
 This project demonstrates the effectiveness of automated test generation using EvoSuite compared to manually written test cases in jsoup.
 
-## Contributors
-- Your Name
-- Additional Contributors (if any)
-
-## License
-This project follows the **MIT License**.
